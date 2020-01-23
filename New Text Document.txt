@@ -1,1 +1,2 @@
-hi getlost
+hi bye
+get lost
